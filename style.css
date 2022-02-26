@@ -3,7 +3,7 @@
   background-color: #ffd900;
 }
 #projects {
-  background-color: #ffd900;
+  background-color: #ffffff;
 }
 
 section {
@@ -14,4 +14,10 @@ section {
 }
 #gallery .row > * {
   padding: 0;
+}
+#gallery {
+  background-color: #ffd900;
+}
+#skills {
+  background-color: #ffd900;
 }
